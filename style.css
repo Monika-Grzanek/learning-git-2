@@ -10,3 +10,7 @@
     padding: 20px;
     background-color: rgb(197, 219, 70);
 }
+
+.text h4 {
+    text-decoration: underline;
+}
